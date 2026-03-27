@@ -14,3 +14,5 @@ hello netology
 12. Файл .terraform.tfstate.lock.info
 13. Файл .terraformrc
 14. Файл terraform.rc
+
+some tests
